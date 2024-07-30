@@ -1,4 +1,4 @@
-## Juan Goler - Dev em Ascensão!
+## Juan Goler - rising developer!
 
 <picture>
   <source
