@@ -9,8 +9,12 @@
     srcset="https://github-readme-stats.vercel.app/api?username=juangoler&show_icons=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=juangoler&show_icons=true" />
 </picture>
+
+<p>
+  <img align="middle" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juangoler&layout=compact&theme=dark&title_color=268bd2" alt="Juan Goler" />
+</p>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Juan-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
