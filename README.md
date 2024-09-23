@@ -1,12 +1,11 @@
-## Juan Goler - Rising Developer!
+## 👋 Hi, I’m Juan Goler
 
-👋 Hi, I’m Juan Goler
-👨‍💻 Passionate about technology and programming, with a strong connection to both software and hardware since childhood.
-🎓 Currently studying at Faculdade de Americana (FAM) and hold a Technical Diploma in IT. Seeking an internship opportunity in IT to apply and expand my knowledge while contributing to a team.
-🏋️‍♂️ Enjoys staying active at the gym and engaging in games, movies, and series that fuel my creativity and analytical skills.
-💻 Skills: HTML, CSS, JavaScript, C, advanced hardware, databases, Microsoft Office.
-🗣 Languages: Intermediate English and Spanish.
-📋 Certifications in IT and programming from various institutions.
+👨‍💻 Passionate about technology and programming, with a strong connection to both software and hardware since childhood. </br>
+🎓 Currently studying at Faculdade de Americana (FAM) and hold a Technical Diploma in IT. Seeking an internship opportunity in IT to apply and expand my knowledge while contributing to a team. </br>
+🏋️‍♂️ Enjoys staying active at the gym and engaging in games, movies, and series that fuel my creativity and analytical skills. </br>
+💻 Skills: HTML, CSS, JavaScript, C, advanced hardware, databases, Microsoft Office. </br>
+🗣 Languages: Intermediate English and Spanish. </br> 
+📋 Certifications in IT and programming from various institutions. </br>
 
 <picture>
   <source
