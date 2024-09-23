@@ -1,11 +1,11 @@
 ## 👋 Hi, I’m Juan Goler
 
-👨‍💻 Passionate about technology and programming, with a strong connection to both software and hardware since childhood. </br>
-🎓 Currently studying at Faculdade de Americana (FAM) and hold a Technical Diploma in IT. Seeking an internship opportunity in IT to apply and expand my knowledge while contributing to a team. </br>
-🏋️‍♂️ Enjoys staying active at the gym and engaging in games, movies, and series that fuel my creativity and analytical skills. </br>
-💻 Skills: HTML, CSS, JavaScript, C, advanced hardware, databases, Microsoft Office. </br>
-🗣 Languages: Intermediate English and Spanish. </br> 
-📋 Certifications in IT and programming from various institutions. </br>
+<p>👨‍💻 Passionate about technology and programming, with a strong connection to both software and hardware since childhood. </p>
+<p>🎓 Currently studying at Faculdade de Americana (FAM) and hold a Technical Diploma in IT. Seeking an internship opportunity in IT to apply and expand my knowledge while contributing to a team. </p>
+<p>🏋️‍♂️ Enjoys staying active at the gym and engaging in games, movies, and series that fuel my creativity and analytical skills. </p>
+<p>💻 Skills: HTML, CSS, JavaScript, C, advanced hardware, databases, Microsoft Office. </p>
+<p>🗣 Languages: Intermediate English and Spanish. </p>
+<p>📋 Certifications in IT and programming from various institutions. </p>
 
 <picture>
   <source
