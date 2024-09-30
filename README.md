@@ -10,7 +10,7 @@
 <table style="width: 100%; text-align: center;">
   <tr>
     <td>
-      <img src="https://github.com/user-attachments/assets/ee4f28fb-d88c-4f34-8221-5b837bb6be3f" alt="Profile Image" style="max-width: 80%; height: auto; border-radius: 10px;" />
+      <img src="https://github.com/user-attachments/assets/1f21e4b9-16e8-4846-9196-5b6a27db8cb4" alt="Profile Image" style="max-width: 80%; height: auto; border-radius: 10px;" />
     </td>
   </tr>
   <tr>
