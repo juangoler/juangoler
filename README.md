@@ -1,4 +1,4 @@
-## 👋 Hi, I’m Juan Goler
+### <h1 align="center">👋 Hi, I'm Juan Goler
 
 <p>👨‍💻 Passionate about technology and programming, with a strong connection to both software and hardware since childhood.</p>
 <p>🎓 Currently studying at Faculdade de Americana (FAM) and hold a Technical Diploma in IT. Seeking an internship opportunity in IT to apply and expand my knowledge while contributing to a team.</p>
