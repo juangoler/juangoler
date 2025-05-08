@@ -13,7 +13,7 @@
 
 ---
 
-## 🧩 About Me
+## About Me
 
 I’m **Juan Goler**, deeply connected with technology since childhood, especially in areas involving infrastructure, cybersecurity, and systems administration.
 
@@ -21,14 +21,14 @@ Currently seeking opportunities in environments involving **networking**, **Linu
 
 I have hands-on experience with:
 
-- 🔐 Network security tools (e.g., *pfSense*, *Cloudflare*, *MSPCloud*)
-- 🧰 Administration and customization of *Kali Linux*, *Ubuntu Server*, and virtual environments
-- 🧠 Analytical mindset shaped by gaming, troubleshooting, and system hardening
-- 🖥️ Past experience also includes frontend development, though now I focus more on infrastructure and cybersecurity
+- Network security tools (e.g., *pfSense*, *Cloudflare*, *MSPCloud*)
+- Administration and customization of *Kali Linux*, *Ubuntu Server*, and virtual environments
+- Analytical mindset shaped by gaming, troubleshooting, and system hardening
+- Past experience also includes frontend development, though now I focus more on infrastructure and cybersecurity
 
 ---
 
-## 🛠️ Technologies & Tools
+## Technologies & Tools
 
 <div align="center">
 <img src="https://img.icons8.com/?size=100&id=12598&format=png&color=000000" height="40" alt="GitHub" />
@@ -44,7 +44,7 @@ I have hands-on experience with:
 
 ---
 
-## 📫 Contact
+## Contact
 
 <div style="text-align: center; margin-top: 20px; display: flex; justify-content: center; gap: 10px;">
   <a href="https://tryhackme.com/p/juangoler" target="_blank">
