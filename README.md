@@ -1,39 +1,62 @@
-### <h1 align="center">👋 Hi, I'm Juan Goler
 
-<p>👨‍💻 Passionate about technology and programming, with a strong connection to both software and hardware since childhood.</p>
-<p>🎓 Currently studying at Faculdade de Americana (FAM) and hold a Technical Diploma in IT. Seeking an internship opportunity in IT to apply and expand my knowledge while contributing to a team.</p>
-<p>🏋️‍♂️ Enjoys staying active at the gym and engaging in games, movies, and series that fuel my creativity and analytical skills.</p>
-<p>💻 Skills: HTML, CSS, JavaScript, C, advanced hardware, databases, Microsoft Office.</p>
-<p>🗣 Languages: Intermediate English and Spanish.</p>
-<p>📋 Certifications in IT and programming from various institutions.</p>
-
-<table style="width: 100%; text-align: center;">
-  <tr>
-    <td>
-      <img src="https://i.pinimg.com/736x/41/82/a9/4182a9dd330c6442c4a1fbc78274d838.jpg" alt="Profile Image" style="max-width: 80%; height: auto; border-radius: 10px;" />
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juangoler&layout=compact&theme=dark&title_color=268bd2" alt="Most Used Languages" style="text-align: center;"/>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div style="display: flex; justify-content: center; margin-top: 20px;">
-        <img alt="Juan-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-        <img alt="Juan-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-        <img alt="Juan-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-      </div>
-    </td>
-  </tr>
-</table>
-
-##
-
-<div style="text-align: center;"> 
-  <a href="https://www.instagram.com/juangolerr/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.twitch.tv/juangolerr" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
-  <a href="mailto:contatojuangoler@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/juangolerr/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<div align="center">
+  <img 
+    width="100%" 
+    src="https://capsule-render.vercel.app/api?type=waving&color=0F0F0F&height=120&section=header&text=&fontColor=ffffff&animation=twinkling"
+  />
 </div>
+
+
+<p align="center">
+  <img src="https://i.pinimg.com/originals/3f/32/86/3f3286429e3b8333f7f87c12b3efc7f7.gif" width="70%" alt="Dark Hacker Theme" />
+</p>
+
+---
+
+## 🧩 About Me
+
+I’m **Juan Goler**, deeply connected with technology since childhood, especially in areas involving infrastructure, cybersecurity, and systems administration.
+
+Currently seeking opportunities in environments involving **networking**, **Linux systems**, and **cloud-based security**, where I can apply my technical knowledge and grow within real-world challenges.
+
+I have hands-on experience with:
+
+- 🔐 Network security tools (e.g., *pfSense*, *Cloudflare*, *MSPCloud*)
+- 🧰 Administration and customization of *Kali Linux*, *Ubuntu Server*, and virtual environments
+- 🧠 Analytical mindset shaped by gaming, troubleshooting, and system hardening
+- 🖥️ Past experience also includes frontend development, though now I focus more on infrastructure and cybersecurity
+
+---
+
+## 🛠️ Technologies & Tools
+
+<div align="center">
+<img src="https://img.icons8.com/?size=100&id=12598&format=png&color=000000" height="40" alt="GitHub" />
+<img src="https://img.icons8.com/?size=100&id=121601&format=png&color=000000" height="40" alt="Visual Studio" />
+<img src="https://img.icons8.com/?size=100&id=892&format=png&color=000000" height="40" alt="Ubuntu" />
+<img src="https://img.icons8.com/?size=100&id=muqMY2QA2VIG&format=png&color=000000" height="40" alt="Kali Linux" />
+<img src="https://img.icons8.com/?size=100&id=JSovFPeJN9IG&format=png&color=000000" height="40" alt="Windows" />
+<img src="https://img.icons8.com/?size=100&id=59499&format=png&color=000000" height="40" alt="PowerShell" />
+<img src="https://img.icons8.com/?size=100&id=12562&format=png&color=000000" height="40" alt="Cloudflare" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pfsense/pfsense-original.svg" height="40" alt="pfSense" />
+<img src="https://img.icons8.com/?size=100&id=ha2T7QnkKumJ&format=png&color=000000" height="40" alt="Bitdefender" />
+</div>
+
+---
+
+## 📫 Contact
+
+<div align="center">
+  <a href="mailto:contatojuangoler@gmail.com"><img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" alt="Gmail" /></a> 
+  <a href="https://www.linkedin.com/in/juangolerr/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> 
+</div>
+
+---
+
+<!-- Footer Animado (Dark) -->
+<p align="center">
+  <img 
+    src="https://capsule-render.vercel.app/api?type=waving&color=0F0F0F&height=80&section=footer"
+    width="100%" 
+  />
+</p>
