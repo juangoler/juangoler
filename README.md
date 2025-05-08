@@ -46,14 +46,28 @@ I have hands-on experience with:
 
 ## 📫 Contact
 
-<div align="center">
-  <a href="mailto:contatojuangoler@gmail.com"><img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" alt="Gmail" /></a> 
-  <a href="https://www.linkedin.com/in/juangolerr/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> 
+<div style="text-align: center; margin-top: 20px; display: flex; justify-content: center; gap: 10px;">
+  <a href="https://tryhackme.com/p/juangoler" target="_blank">
+    <img src="https://img.shields.io/badge/-TryHackMe-111111?style=for-the-badge&logo=tryhackme&logoColor=red" target="_blank">
+  </a>
+  <a href="https://app.hackthebox.com/profile/#2361088" target="_blank">
+    <img src="https://img.shields.io/badge/-HackTheBox-0d1117?style=for-the-badge&logo=hackthebox&logoColor=green" target="_blank">
+  </a>
+  <a href="mailto:contatojuangoler@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-212121?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+  </a>
+  <a href="https://www.linkedin.com/in/juangolerr/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  </a>
+  <a href="https://www.instagram.com/juangolerr/" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-1C1C1C?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
+  </a>
 </div>
+
 
 ---
 
-<!-- Footer Animado (Dark) -->
+
 <p align="center">
   <img 
     src="https://capsule-render.vercel.app/api?type=waving&color=0F0F0F&height=80&section=footer"
