@@ -15,16 +15,26 @@
 
 ## About Me
 
-I’m **Juan Goler**, deeply connected with technology since childhood, especially in areas involving infrastructure, cybersecurity, and systems administration.
+Hi, I'm Juan Goler 👋
 
-Currently seeking opportunities in environments involving **networking**, **Linux systems**, and **cloud-based security**, where I can apply my technical knowledge and grow within real-world challenges.
+**Cybersecurity Analyst @ CPQD | SOC & GRC Specialist | Computer Science Student @ FAM**
 
-I have hands-on experience with:
+I am a security-driven professional deeply connected with infrastructure, cloud security, and system hardening. Currently, I balance my role at CPQD—focusing on incident response and threat analysis—with my Computer Science degree, where I apply software engineering principles to solve real-world security challenges.
 
-- Network security tools (e.g., *pfSense*, *Cloudflare*, *MSPCloud*)
-- Administration and customization of *Kali Linux*, *Ubuntu Server*, and virtual environments
-- Analytical mindset shaped by gaming, troubleshooting, and system hardening
-- Past experience also includes frontend development, though now I focus more on infrastructure and cybersecurity
+### 🛠️ Core Competencies
+- **Security Operations:** SOC Monitoring, Incident Response, Red/Purple Teaming.
+- **Governance & Risk:** Compliance with ISO 27001, NIST, and LGPD frameworks.
+- **Infrastructure:** Linux/Windows Server Administration and Network Security (pfSense, Cloudflare).
+- **Development:** Building secure backends with Python (FastAPI) and modern UIs with TypeScript.
+
+### 📜 Featured Certifications
+- **Oracle Cloud Infrastructure (OCI)** 2025 Foundations Associate.
+- **SOC Analyst** (IBSEC & Hackers Hive).
+- **Metasploit Framework Expert** (Hackers Hive).
+- **Information Security Guidelines** (LetsDefend).
+
+---
+📫 **How to reach me:** [LinkedIn](https://www.linkedin.com/in/juangolerr) | [TryHackMe](https://tryhackme.com/p/juangoler)
 
 ---
 
